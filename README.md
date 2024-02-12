@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Tejeshwar Thakur 👋
 
-<!--
-**TejeshwarThakur2003/TejeshwarThakur2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web design student at Georgian College who loves to create beautiful and interactive websites.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Node.js and Express
+- 💬 Ask me about HTML, CSS, JavaScript, and Bootstrap
+- 📫 How to reach me: tejeshwar.thakur@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy playing chess and solving puzzles
+
+## My skills
+
+!HTML
+!CSS
+!JavaScript
+!Bootstrap
+!Node.js
+!Express
+
+## My projects
+
+- Portfolio - A personal portfolio website that showcases my skills and projects.
+- Todo List - A simple todo list app built with Node.js and Express.
+- Calculator - A basic calculator app built with HTML, CSS, and JavaScript.
+
+## Connect with me
+
+!GitHub
+!LinkedIn
+!Twitter
