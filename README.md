@@ -6,7 +6,7 @@ I'm a web design student at Georgian College who loves to create beautiful and i
 
 - 🌱 I’m currently learning Node.js and Express
 - 💬 Ask me about HTML, CSS, JavaScript, and Bootstrap
-- 📫 How to reach me: tejeshwar.thakur@gmail.com
+- 📫 How to reach me: tejeshwarthakur2003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles
 
@@ -26,7 +26,4 @@ I'm a web design student at Georgian College who loves to create beautiful and i
 - Calculator - A basic calculator app built with HTML, CSS, and JavaScript.
 
 ## Connect with me
-
-!GitHub
-!LinkedIn
-!Twitter
+🌈📷 @thqr_tejas
