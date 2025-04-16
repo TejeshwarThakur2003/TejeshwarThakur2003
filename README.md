@@ -26,4 +26,4 @@ I'm a web design student at Georgian College who loves to create beautiful and i
 - Calculator - A basic calculator app built with HTML, CSS, and JavaScript.
 
 ## Connect with me
-🌈📷 @thqr_tejas
+@thqr_tejas
